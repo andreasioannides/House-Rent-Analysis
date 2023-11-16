@@ -1,1 +1,1 @@
-# House-Prices-Prediction
+# House Rent Analysis
